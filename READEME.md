@@ -27,4 +27,4 @@
 
 <p>you are sad.</p>
 
-![Markdown Logo](http://markdown-here.com/img/con256.png)
+![努力奋斗]()
