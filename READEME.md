@@ -1,5 +1,5 @@
-[jump](#https://github.com/fangyihui-1/mymain/blob/main/next.md)
-# head
+[jump](src="next.md")
+# jump
 ## head
 ### head
 *It is* crazy.
