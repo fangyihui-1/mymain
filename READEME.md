@@ -27,4 +27,4 @@
 
 <p>you are sad.</p>
 
-![努力奋斗]()
+![努力奋斗](https://github.com/fangyihui-1/mymain/blob/main/%E4%B8%8D%E6%94%BE%E5%BC%83.jpg)
