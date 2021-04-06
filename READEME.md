@@ -1,4 +1,4 @@
-[jump](src="https://github.com/fangyihui-1/mymain/blob/main/next.md")
+[jump] (src="https://github.com/fangyihui-1/mymain/blob/main/next.md")
 # jump
 ## head
 ### head
