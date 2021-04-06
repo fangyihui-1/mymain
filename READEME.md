@@ -28,3 +28,24 @@
 <p>you are sad.</p>
 
 ![努力奋斗](https://github.com/fangyihui-1/mymain/blob/main/%E4%B8%8D%E6%94%BE%E5%BC%83.jpg)
+
+```python
+def add(num1,num2):
+return num1+num2
+```
+
+```c
+#include<stdio.h>
+int main(){
+print("hello world!");
+return 0;}
+
+```
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+* [1]task1
+* [2]task2
+* [3]task3
